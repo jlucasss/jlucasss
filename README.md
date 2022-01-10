@@ -12,7 +12,7 @@ Welcome! :grin:
         <img src="https://github-readme-stats.vercel.app/api?username=jlucasss&show_icons=true&theme=radical" alt="d" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="f" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasss&layout=compact" alt="f" />
       </td>
     </tr>
   </table>
